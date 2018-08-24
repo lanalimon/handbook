@@ -20,7 +20,6 @@
 - [Sick Leave Policy](/Benefits%20and%20Perks/Sick%20Leave%20Policy.md)
 - [Caretaker Leave Policy](/Benefits%20and%20Perks/Caretaker%20Leave%20Policy.md)
 - [Other Types of Leaves](/Benefits%20and%20Perks/Other%20Types%20of%20Leaves.md)
-- [401(k) Plan](/Benefits%20and%20Perks/401(k)%20Plan.md)
 
 ## Processes and Practices
 - [Vocabulary](/Processes%20and%20Practices/Vocabulary.md)
