@@ -1,16 +1,8 @@
 # Office Perks
 
-## Meals
-
-Foodies welcome! We offer lunch five days a week, and dinner can be expensed for anyone who wants to work at the office past 6 p.m. Let Margaret know if you have dietary restrictions.
-
 ## Gym Membership
 
 Superformula offers reimbursements on gym memberships up to $70 a month (a maximum paid monthly that does not roll over). Fitness SF is conveniently located a few blocks from the office. Another nearby favorite for our climbers is Mission Cliffs. Please contact Margaret for reimbursement or if you need helping finding a gym.
-
-## In-Office Massages
-
-Every other Wednesday, Superformula has a full-day massage therapist in the office. Feel free to make your appointment through [Zeel](https://www.zeel.com/massage-on-demand/chair/start/Superformula25).
 
 ## Lyft Credit
 
