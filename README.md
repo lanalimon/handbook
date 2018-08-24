@@ -24,4 +24,4 @@
 ## Processes and Practices
 - [Vocabulary](/Processes%20and%20Practices/Vocabulary.md)
 - [Recurring Meetings](/Processes%20and%20Practices/Recurring%20Meetings.md)
-- [Remote Work](/Processes%20and%20Practices/Remote%20Work.md)
+- [Working Remotely](/Processes%20and%20Practices/Working%20Remotely.md)
