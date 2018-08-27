@@ -3,7 +3,7 @@ All times PT unless noted otherwise
 
 ## Whole Company
 
-#### Weekly Goals (Weekly, Monday, 10:00 to 10:05 a.m.)
+#### Weekly Goals (Weekly, Monday, 10:00 to 10:15 a.m.)
 Everyone gathers. One person from each department verbally presents the high-level goals for the week. They are recorded in the weekly review doc.
 
 #### Daily Standup Summaries (Weekly, Tuesday through Friday, 10:00 to 10:15 a.m.)
