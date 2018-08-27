@@ -2,7 +2,7 @@
 
 ## Gym Membership
 
-Superformula offers reimbursements on gym memberships up to $70 a month (a maximum paid monthly that does not roll over). Fitness SF is conveniently located a few blocks from the office. Another nearby favorite for our climbers is Mission Cliffs. Please contact Margaret for reimbursement or if you need helping finding a gym.
+Superformula offers reimbursements on gym memberships up to $70 a month (a maximum paid monthly that does not roll over). 
 
 ## Lyft Credit
 
