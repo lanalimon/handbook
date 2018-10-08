@@ -1,9 +1,9 @@
 # The Superformula Handbook
 
 ## Introduction
-- [Mission](/Introduction/Mission.md)
-- [Values](/Introduction/Values.md)
-- [Goals](/Introduction/Goals.md)
+- [Mission](/Introduction/Mission.md) WIP
+- [Values](/Introduction/Values.md) WIP
+- [Goals](/Introduction/Goals.md) WIP
 
 ## Employment Policies
 - [At-Will Employment](/Employment%20Policies/At-Will%20Employment.md)
