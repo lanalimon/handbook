@@ -18,7 +18,6 @@
 - [Education Benefit Program](/benefits-and-perks/education-benefit-program.md)
 - [Medical Benefits and Policies](/benefits-and-perks/medical-benefits-and-policies.md)
 - [Sick Leave Policy](/benefits-and-perks/sick-leave-policy.md)
-- [Caretaker Leave Policy](/benefits-and-perks/caretaker-leave-policy.md)
 - [Other Types of Leaves](/benefits-and-perks/office-perks.md)
 
 ## Processes and Practices
