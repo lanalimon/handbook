@@ -1,7 +1,5 @@
 # Values
 
-**We want to build software that enables effective communication, and we also want to make an impact on the world via our culture. We believe that by embodying our values, we can make the world more like the kind of world we want to live in.**
-
 If a company creates great products but churns through the people who make them, is that organization worth building? For us, the answer is no. We believe that a company should be unabashedly human, and should serve both the people who work there and the customers it creates value for.
 
 We believe in inclusivity and strive to make our company a leading example of a better, more human tech company. We reject racism, sexism, and homophobia. We want people who couldn’t be successful elsewhere because they don’t look or sound like what society expects successful people to look like to work here and to be given the chance they deserve.
